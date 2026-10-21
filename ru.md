@@ -11,7 +11,7 @@
 
 
 ## Как подключить
-Скопируй `library.h` из репозитория или release в свой проект и подключи его. 
+Скопируй `library.h` из [репозитория]("https://github.com/ItzDdwq/DataValidator") или [release]("https://github.com/ItzDdwq/DataValidator/releases/tag/v1.0") в свой проект и подключи его. 
 
 ```cpp
 #include "library.h"
