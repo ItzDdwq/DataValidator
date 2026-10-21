@@ -10,7 +10,7 @@ A simple C++ library for validating data formats.
 - `isValidPhone(phone)` — validates a Russian mobile number (10 or 11 digits, code starts with 9).
 
 ## How to include
-Copy `library.h` from the repository or release into your project and include it.
+Copy `library.h` from the [repository](https://github.com/ItzDdwq/DataValidator) or [release](https://github.com/ItzDdwq/DataValidator/releases/tag/v1.0) into your project and include it.
 
 ```cpp
 #include "library.h"
